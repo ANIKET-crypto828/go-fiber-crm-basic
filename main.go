@@ -4,6 +4,8 @@ import (
 	"github.com/ANIKET-crypto828/go-fiber-crm-basic/database"
 	"github.com/gofiber/fiber"
 	"fmt"
+	"github.com/jinzhu/gorm"
+	"github.com/jinzhu/gorm/dialects/sqlite"
 	"github.com/ANIKET-crypto828/go-fiber-crm-basic/lead"
 )
 
